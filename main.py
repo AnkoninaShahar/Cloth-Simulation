@@ -2,7 +2,7 @@ import pygame
 import manager
 
 pygame.init()
-screen = pygame.display.set_mode((1280, 720))
+screen = pygame.display.set_mode((1280, 960))
 clock = pygame.time.Clock()
 running = True
 
@@ -13,7 +13,7 @@ while running:
         if event.type == pygame.QUIT:
             running = False
     
-    screen.fill("dark grey")
+    screen.fill(pygame.Color(41, 41, 41))
 
     manager.draw(screen)
 
