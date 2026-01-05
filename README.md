@@ -1,31 +1,27 @@
-**AUTHOR**       : Shahar Ankonina
-**PROJECT NAME** : Tension-Simulation
-**DESCRIPTION**  : Real-time physics simulation of tension forces between connected nodes
+# Tension-Simulation
+**AUTHOR . . . . . . .** Shahar Ankonina                                                                              
+**DESCRIPTION. . .** Real-time physics simulation of tension forces between connected nodes
 
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
-# About
+---
+## About
 Simulates networks of interconnected nodes with tension forces, allowing users to cut tethers and explore dynamic system behavior. Highlights real-time physics computation, vector-based forces, and interactive visualization.
 
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+---
+## Features
+- *Realistic Tension Forces:* Tethers apply physics-based tension to connected nodes, simulating real-world interactions.
+- *Breakable Connections:* Tethers have a maximum stretch threshold and break dynamically when overloaded.
+- *Interactive Environment:* Users can cut tethers to manipulate the network and observe cascading effects.
+- *Gravity Simulation:* Nodes are affected by a constant downward force, contributing to natural motion and equilibrium.
+- *Dynamic Visualization:* Real-time updates and rendering allow users to see changes in the system immediately.
 
-# Features
-- Realistic Tension Forces: Tethers apply physics-based tension to connected nodes, simulating real-world interactions.
-- Breakable Connections: Tethers have a maximum stretch threshold and break dynamically when overloaded.
-- Interactive Environment: Users can cut tethers to manipulate the network and observe cascading effects.
-- Gravity Simulation: Nodes are affected by a constant downward force, contributing to natural motion and equilibrium.
-- Dynamic Visualization: Real-time updates and rendering allow users to see changes in the system immediately.
-
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
-# Tech Stack
+---
+## Tech Stack
 - *Programming Languages:* Python
 - *Libraries & Frameworks:* Pygame
 - *Tools & Platforms:* Git/GitHub, VS Code
 
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
-# Installation
+---
+## Installation
 Follow these steps to run the project locally:
 
 ```bash
