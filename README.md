@@ -36,3 +36,12 @@ pip install -r requirements.txt
 
 # Run the project
 python main.py
+
+```
+
+---
+## Usage
+- After launching the simulation, users can manipulate the environment by cutting tethers or spawning new nodes.
+- **Controls:** Click and hold to cut tethers the mouse hovers over
+
+<img width="1278" height="988" alt="image" src="https://github.com/user-attachments/assets/fc18ed3d-de63-4514-8dc1-ad1d37e80a6c" />
